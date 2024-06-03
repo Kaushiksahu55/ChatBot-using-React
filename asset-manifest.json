@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ChatBot-using-React/static/css/main.bb123816.css",
+    "main.js": "/ChatBot-using-React/static/js/main.ef047004.js",
+    "static/js/787.61270e95.chunk.js": "/ChatBot-using-React/static/js/787.61270e95.chunk.js",
+    "static/media/user-icon.png": "/ChatBot-using-React/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/user.png": "/ChatBot-using-React/static/media/user.33e7df0963941edbeb70.png",
+    "static/media/chatgpt.svg": "/ChatBot-using-React/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/chatgptLogo.svg": "/ChatBot-using-React/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/send.svg": "/ChatBot-using-React/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "index.html": "/ChatBot-using-React/index.html",
+    "static/media/message.svg": "/ChatBot-using-React/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.bb123816.css.map": "/ChatBot-using-React/static/css/main.bb123816.css.map",
+    "main.ef047004.js.map": "/ChatBot-using-React/static/js/main.ef047004.js.map",
+    "787.61270e95.chunk.js.map": "/ChatBot-using-React/static/js/787.61270e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb123816.css",
+    "static/js/main.ef047004.js"
+  ]
+}
