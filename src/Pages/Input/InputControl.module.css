@@ -1,0 +1,29 @@
+.input {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 10px  20px;
+}
+
+.input label {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.input input {
+    border-radius: 5px;
+    border: 1px solid grey;
+    outline: none;
+    padding: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+.input input:hover {
+    border-color: black;
+}
+
+.input input:focus {
+    border-color: purple;
+}

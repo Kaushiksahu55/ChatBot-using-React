@@ -1,0 +1,79 @@
+.containerBox {
+    height: 100%;
+    min-height: 100vh;
+    width: 100%;
+    background: rgb(3 , 0 , 31);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerBox {
+    min-width: 400px;
+    height: fit-content;
+    width: fit-content;
+    background-color: #fff;
+    box-shadow: rgba(255, 255, 255, 0.15) 0px 48px 100px 0px;
+    border-radius: 20px;
+    padding: 20px
+}
+
+.innerHeading {
+    font-size: 3rem;
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.errorMessage {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 15px;
+}
+
+.footer button {
+    outline: none;
+    border: none;
+    background-color: black !important; 
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px 10px;
+    width: 100%;
+    transition: 100ms;
+    cursor: pointer;
+}
+
+.footer button:hover {
+    background-color: grey;
+    border-color: black 1px;
+}
+
+.footer p {
+    font-weight: 700;
+    color: black;
+    margin: 20px;
+}
+
+.footer  p span a {
+    font-size: 2rem; 
+    font-weight: 500;
+    text-decoration: none;
+    color: blue;
+    margin: 0 10px;
+}
+
+button:disabled{
+    background-color: grey;
+}
